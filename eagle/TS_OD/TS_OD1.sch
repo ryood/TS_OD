@@ -14951,7 +14951,7 @@ DIN A4, landscape with location and doc. field</description>
 <part name="P+3" library="supply1" deviceset="VCC/2" device=""/>
 <part name="P+4" library="supply1" deviceset="VCC/2" device=""/>
 <part name="JP2" library="pinhead" deviceset="PINHD-1X2" device="" value="DRIVE"/>
-<part name="R7" library="rcl" deviceset="R-EU_" device="0207/7" value="1k"/>
+<part name="R7" library="rcl" deviceset="R-EU_" device="0207/10" value="1k"/>
 <part name="R9" library="rcl" deviceset="R-EU_" device="0207/7" value="10k"/>
 <part name="C5" library="rcl" deviceset="C-EU" device="050-035X075" value="0.22uF"/>
 <part name="JP3" library="pinhead" deviceset="PINHD-1X3" device="" value="Tone"/>
@@ -14980,8 +14980,8 @@ DIN A4, landscape with location and doc. field</description>
 <part name="JP6" library="pinhead" deviceset="PINHD-1X2" device="" value="DCIN"/>
 <part name="R16" library="rcl" deviceset="R-EU_" device="0207/7" value="10k"/>
 <part name="R17" library="rcl" deviceset="R-EU_" device="0207/7" value="10k"/>
-<part name="C10" library="rcl" deviceset="CPOL-EU" device="E2.5-7" value="100uF"/>
-<part name="C11" library="rcl" deviceset="CPOL-EU" device="E2.5-7" value="47uF"/>
+<part name="C10" library="rcl" deviceset="CPOL-EU" device="E5-6" value="100uF"/>
+<part name="C11" library="rcl" deviceset="CPOL-EU" device="E5-6" value="47uF"/>
 <part name="GND9" library="supply1" deviceset="GND" device=""/>
 <part name="P+9" library="supply1" deviceset="VCC/2" device=""/>
 <part name="P+10" library="supply1" deviceset="VCC" device=""/>
